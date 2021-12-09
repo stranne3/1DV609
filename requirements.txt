@@ -1,5 +1,6 @@
 #### Required files to run Sympy Tests ####
 
+sympy
 Cython
 numpy
 matplotlib
