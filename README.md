@@ -1,7 +1,7 @@
 # 1DV609
 Repository for contents regarding course 1DV609, Software Testing.
 
-# Tesing Sympy
+# Testing Sympy
 ## Viktor Stranne
 
 > 1DV609
