@@ -8,3 +8,4 @@ Currently, the list of slow tests is updated intermittently by running::
 
 make sure you have a C compiler, a Fortran compiler, numpy, scipy, cython, matplotlib & sage installed (the latter can
 be tricky, in which case just make sure that no sage tests are removed in the git diff).
+pip

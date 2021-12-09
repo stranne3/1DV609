@@ -1,0 +1,9 @@
+#### Required files to run Sympy Tests ####
+
+Cython
+numpy
+matplotlib
+sage
+mpmath
+scipy
+pytest
