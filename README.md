@@ -6,7 +6,7 @@ Repository for contents regarding course 1DV609, Software Testing.
 ### and Alexander Röst, student-id: ar223ni
 # Testing Sympy
  The purpose of this project is to get a deeper understanding for how testing works, why it is done & what you can learn from it.
-#
+
 Sympys development can be tracked using their Github.
 >[https://github.com/sympy/sympy][github]
 
